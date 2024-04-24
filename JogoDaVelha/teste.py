@@ -6,6 +6,6 @@ def mult(x,y):
     print(m)
 a = int(input("Digite um numero: "))
 b = int(input("Digite outro numero: "))
-soma, subtração = soma_e_subtração(a, b)DDDD
+soma, subtração = soma_e_subtração(a, b)DADADADADA
 multiplicacao = mult(soma, subtração)DAHDLAD;A
 print(f"Soma: {soma} \nSubtração: {subtração} \nMultiplicacao: {multiplicacao}")
